@@ -6,7 +6,7 @@ My name is Darshil Nanavati, Data Analyst intern at iNeuron.ai. My project is ab
 
 I have combined them and make one seperate file with some additional information to make analysis and dashboards.
 
-Tools used: MS Excel, Tableau
+Tools used: MS Excel, PowerBI, MySQL
 
 Visuals:
 
